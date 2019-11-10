@@ -1,0 +1,30 @@
+[[this-notebook-will-be-used-for-the-capstone-project]]
+== This notebook will be used for the capstone project
+
+
++*In[1]:*+
+[source, ipython3]
+----
+import pandas as pd # library for data analsysis
+import numpy as np # library to handle data in a vectorized manner
+----
+
+
++*In[5]:*+
+[source, ipython3]
+----
+print("Hello Capstone Project Course!")
+----
+
+
++*Out[5]:*+
+----
+Hello Capstone Project Course!
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
